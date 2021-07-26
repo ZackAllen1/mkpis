@@ -27,6 +27,6 @@ jobs:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
     - name: Bruh
-      run: cd ../cmd/cli && go run main.go
+      run: cd ../../cmd/cli && go run main.go
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
