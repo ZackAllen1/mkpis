@@ -27,6 +27,6 @@ jobs:
         GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
     - name: Bruh
-      run: mkpis -owner ZackAllen1 -repo github-branch-visualizer
+      run: cd ../cmd/cli && go run main.go
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
