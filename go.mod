@@ -3,6 +3,7 @@ module github.com/jmartin82/mkpis
 go 1.14
 
 require (
+	github.com/360EntSecGroup-Skylar/excelize/v2 v2.4.0 // indirect
 	github.com/caarlos0/env/v6 v6.3.0
 	github.com/common-nighthawk/go-figure v0.0.0-20200609044655-c4b36f998cf2
 	github.com/davidscholberg/go-durationfmt v0.0.0-20170122144659-64843a2083d3
