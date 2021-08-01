@@ -1,10 +1,12 @@
 # MKPIS
 
 **MADE MY (ZackAllen1) OWN MODIFICATIONS FOR USE WITH GSM**
+
 **MODIFICATIONS INCLUDE**
 - Converting duration format
 - Added Export to CSV using Excelize Package
 - Routed CSV To Power BI Report for consumption
+- Added YAML build to test Github Token Configuration
 
 ========================================
 
