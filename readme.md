@@ -31,9 +31,9 @@
   * Copy the token that was created and replace ```<Your Token Here>``` with the token you just created
 
 - ```<Feature Branch Name>``` generates the following data about the branch
-  * INSERT DIAGRAM HERE
+  ![feature branch diagram](featurebranch.png)
 - Wheras ```<Master Branch Name>``` generates the following data about the branch
-  * INSERT DIAGRAM HERE
+  ![master branch diagram](masterbranch.png)
 
 
 - Save the .env file
@@ -64,9 +64,9 @@
 - Now anytime you run the ```go run main.go``` command from above, all you have to do is refresh the Power BI data and "Publish" your data for everyone to see
 
 
+## END OF NOTES
 
 
-========================================
 
 Measuring the development process for Gitflow managed projects.
 
