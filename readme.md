@@ -15,7 +15,7 @@
   * If using VSCode, upon opening the file you can install the Go Extension 
 - Change the directory to the following using the Terminal
   ```
-  \mkpis\cmd\cli
+  somepath\mkpis\cmd\cli
   ```
 - Create a file called .env in this directory and add the following code
   ```
